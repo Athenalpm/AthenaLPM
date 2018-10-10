@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dolvi LPM.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+				<key>dateExpires</key>
+				<string>24/05/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Charts.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>DACircularProgress.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Gloss.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MBProgressHUD.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MWPhotoBrowser.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>NVActivityIndicatorView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SDWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SpreadsheetView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Toast_Swift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76486F978E64CCD7909EB821B8E1941BE1552149</string>
+						<key>dateExpires</key>
+						<string>24/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>XLPagerTabStrip.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Z3HYQ6CDW</string>
+						<key>name</key>
+						<string>Script Lanes</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2Z3HYQ6CDW.com.scriptlanes.athenalpm</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2Z3HYQ6CDW</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>2Z3HYQ6CDW.com.scriptlanes.athenalpm</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Athena LPM.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7eadc945-e2d0-47d9-bf5e-d0499b6e17c4</string>
+				<key>name</key>
+				<string>athenalpm_adhoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2Z3HYQ6CDW</string>
+				<key>name</key>
+				<string>Script Lanes</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
